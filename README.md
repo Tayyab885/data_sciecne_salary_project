@@ -68,7 +68,7 @@ I tried four different models:
 *	**Xgboost Regressor** – Again, with the sparsity associated with the data, I thought that this would be a good fit
 
 ## Model performance
-The Random Forest model far outperformed the other approaches on the test and validation sets. 
+The Xgboost Regressor model far outperformed the other approaches on the test and validation sets. 
 *	**Random Forest** : MAE = 11.36
 *	**Linear Regression**: MAE = 18.86
 *	**Lasso Regression**: MAE = 19.98
